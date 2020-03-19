@@ -1,1 +1,3 @@
-# hellocamer
+# maven-project
+
+Simple Maven Project
